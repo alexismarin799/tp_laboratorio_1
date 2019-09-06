@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1567718188 source:c:\users\alexis\documents\marin alexis\tp calculadora 2\main.c
+	<stdlib.h>
+	<stdio.h>
+	"Operaciones2.h"
+
+1567728589 c:\users\alexis\documents\marin alexis\tp calculadora 2\operaciones2.h
+	<stdio.h>
+
+1567729467 source:c:\users\alexis\documents\marin alexis\tp calculadora 2\operaciones2.c
+	"Operaciones2.h"
+
+1567681765 source:c:\users\alumno\desktop\tp calculadora 2\main.c
+	<stdlib.h>
+	<stdio.h>
+	"Operaciones2.h"
+
+1567681766 c:\users\alumno\desktop\tp calculadora 2\operaciones2.h
+	<stdio.h>
+
+1567703078 source:c:\users\alumno\desktop\tp calculadora 2\operaciones2.c
+	"Operaciones2.h"
+
